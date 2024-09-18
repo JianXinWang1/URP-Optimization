@@ -6,9 +6,10 @@
 ***
 ##课程链接：
 https://www.bilibili.com/video/BV1AL4y1b75c/?spm_id_from=333.788&vd_source=ebc85d1ae1c7577dccd9922b134f7276
-
+***
 ##项目资源：
 https://assetstore.unity.com/packages/3d/environments/fantasy/suntail-stylized-fantasy-village-203303
+***
 ## Feature
 - [x] 静态资源优化
   - [x] 音频格式，配置优化
