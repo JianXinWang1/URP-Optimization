@@ -1,7 +1,9 @@
 ### 幻想村庄案例基于安卓平台的优化:
 <div align=center>
-<img src="res0.png" width="400" height="250">
-<img src="res1.png" width="400" height="250">
+<img src="Assets\res\unity_pre.png" width="400" height="250">
+<img src="Assets\res\unity_surf.png" width="400" height="250">
+<img src="Assets\res\renderdoc_pre.png" width="400" height="250">
+<img src="Assets\res\renderdoc_surf.png" width="400" height="250">
 </div>
 
 ***
